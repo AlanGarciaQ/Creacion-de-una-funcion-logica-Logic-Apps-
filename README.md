@@ -7,6 +7,7 @@
 - Cuenta de Azure con una suscripción activa
 - Equipo de cómputo con sistema operativo: Windows, Linux o MacOs
 - En Google Sheet crear un archivo en Excel y guardarlo en una carpeta en Google drive. El archivo será como se muestra a continuación.
+
 ![](/imagenes/Imagen0.png)
  
 **Pasos**  
@@ -25,7 +26,7 @@ Nombre de la aplicación: Ponemos el que queramos.
 Región: Podemos escoger cualquiera, pero si no queremos que haya mucha latencia escogemos uno cercano a donde vivimos.  
 Habilitar Log Analitycs: Seleccionamos no.
 
-En Plan  
+**En Plan**  
 Tipo de plan: Seleccionamos la opción de consumo.
 
 Por último, damos clic en el botón de revisar y crear, y luego en crear.
