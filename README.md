@@ -60,3 +60,32 @@ Plan de tarifa: Seleccionamos el gratis
 
 Las casilla las marcamos con la palomita y le damos en revisar y crear, y luego en crear.
 ![](/imagenes/Imagen4.png)
+
+Cuando se termine de crear nuestro recurso, daremos clic en el botón de ir al recurso.  
+En el menú de la parte de la izquierda le damos clic en la opción de claves y puntos de conexión.  
+Copiamos la clave 1 y la pegamos en clave de cuenta de donde nos habíamos quedado en el anterior portal azure y hacemos lo mismo con la URL. En la ventana donde se pegó la clave y la URL le pondremos el nombre de la conexión y le daremos en crear. 
+![](/imagenes/Imagen5.png)
+
+![](/imagenes/Imagen6.png)
+
+Llenamos el apartado de documents id y text como se ve en la imagen y le damos en nuevo paso.
+![](/imagenes/Imagen7.png)
+
+En la barra de búsqueda de la ventana que se abrió buscamos “Google sheet” y lo seleccionamos.
+Seleccionamos insertar fila e iniciamos sección en nuestra cuenta de Google Drive.  
+En archivo en la imagen de la carpeta seleccionamos el archivo donde se guardará la información de los Tweet. Y seleccionamos la hoja de cálculo donde se guardará.
+![](/imagenes/Imagen8.png)
+
+Seleccionamos todos los parámetros de la hoja de Excel y nos pedirá que seleccionemos con lo que se van a llenar. En la siguiente imagen se muestra cómo se llenan. Cuando se terminen de llenar le daremos clic en nuevo paso.
+![](/imagenes/Imagen9.png)
+
+En la barra de búsqueda escribimos teams y buscamos la opción que dice publicar mensaje en un chat o canal y la seleccionamos e iniciamos sesión en Teams.  
+En la siguiente pestaña llenamos los datos como se muestra a continuación. Cuando se rellenen le damos en guardar.
+![](/imagenes/Imagen10.png)
+
+Nos vamos a Twitter y escribimos #IAWizards que habíamos puesto antes, y escribimos lo que queramos a continuación. En el portal azure le damos a ejecutar desencadenador y en Twitter lanzamos el Tuit. 
+![](/imagenes/Imagen11.png)
+
+En nuestra hoja de cálculo se mirarán todos los datos de los tuits que se ejecuten, así como en Teams.  
+![](/imagenes/Imagen12.png)  
+![](/imagenes/Imagen13.png)
